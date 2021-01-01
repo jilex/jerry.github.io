@@ -1,2 +1,2 @@
-# redpanda.github.io
-a blog of an ordinary being.
+# jilex.github.io
+A blog of jilex.
